@@ -1,0 +1,72 @@
+/* odin-recipe example -- css by elbrant */
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #000;
+	font: 20px Ubuntu, Verdana, "sans-serif";
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+
+#brunswickstew {
+	background-image: url("../imgs/brunswickstew.jpg");
+}
+
+#jalapenobeans {
+	background-image: url("../imgs/jalapenobeans.jpg");
+}
+
+#potatosalad {
+	background-image: url("../imgs/potatosalad.jpg");
+}
+
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #000;
+	text-decoration: none;
+}
+
+a:active {
+	color: #000;
+	text-decoration: none;
+}
+
+.intro {
+	margin: 10%;
+	padding: 5%;
+	text-align: center;
+	align-content: center;
+	background-color: #FFFFFF95;
+}
+
+.howto {
+	padding: 15px 0;
+}
+
+li {
+	text-align: left;
+	position: center;
+}
+
+h1 {
+	color: #000;
+}
+
+h6 {
+	text-align: center;
+	padding: 0px;
+}
+
+/* eof */
